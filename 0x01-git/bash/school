@@ -1,7 +1,3 @@
 #!/bin/bash
 echo "School"
-^C
- 
-root@9a6e3852e1b4:/alx-pre_course/0x01-git/bash# git add .
-cd root
-root@9a6e3852e1b4:/alx-pre_course
+
